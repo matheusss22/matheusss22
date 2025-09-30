@@ -11,7 +11,7 @@ Sou um Desenvolvedor e Integrador de Software para Automação Industrial, apaix
 
 ## Sobre minha atuação em Automação (OT)
 No meu dia a dia, foco em criar pontes entre o hardware industrial e o software, desenvolvendo soluções robustas e eficientes.
--   **Desenvolvimento e integração** de sistemas SCADA/BMS, principalmente com **Elipse E3**,**Schneider EBO** e **Schneider PME**.
+-   **Desenvolvimento e integração** de sistemas SCADA/BMS, principalmente com **Elipse E3**, **Schneider EBO** e **Schneider PME**.
 -   **Programação de PLCs e Sistemas Embarcados** para integração com hardware de campo.
 -   **Gerenciamento e otimização** de bancos de dados **SQL Server** e **PostgreSQL** para dados de processo.
 -   **Monitoramento de dados** com dashboards interativos.
