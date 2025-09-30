@@ -25,6 +25,6 @@ Fora do ambiente industrial, adoro explorar outras áreas da tecnologia:
 ## Tecnologias e Ferramentas
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,visualstudio,html,css,javascript,py,vscode,git,docker,postgres,grafana,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,visualstudio,html,css,javascript,py,vscode,git,docker,postgres,notion,grafana,bash,linux,kali" />
   </a>
 </p>
