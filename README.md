@@ -23,7 +23,7 @@ Fora do ambiente industrial, adoro explorar outras áreas da tecnologia:
 -   **🐧 Sistemas Operacionias:** Sou um profissional flexível que transita com proficiência entre ambientes Linux e Windows. Valorizo e utilizo o Windows por reconhecer seu papel crítico e sua forte presença no ecossistema de Automação Industrial (OT), mas também utilizo linux, uso o Debian em Dual Boot com Kali linux para explorar recursos de Cybersecurity e EthicalHacking.
 
 ## Tecnologias e Ferramentas
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,cmake,visualstudio,html,css,javascript,py,vscode,git,docker,postgres,notion,grafana,bash,linux,kali&perline=6" />
   </a>
